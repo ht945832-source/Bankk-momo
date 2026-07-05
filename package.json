@@ -1,0 +1,13 @@
+{
+  "name": "vcb-bank-api",
+  "version": "1.0.0",
+  "description": "API Vietcombank Reward Score",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "axios": "^1.7.2"
+  }
+}
